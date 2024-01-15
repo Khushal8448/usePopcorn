@@ -15,6 +15,7 @@ dist-ssr
 # Editor directories and files
 Challenge_TextExpander
 Challenge-Currency_converter
+Challenge_useGeolocation
 .vscode/*
 !.vscode/extensions.json
 .idea
